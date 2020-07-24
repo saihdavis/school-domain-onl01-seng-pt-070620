@@ -28,8 +28,6 @@ class School
       @roster[grade] = student.sort
   end
 end
-=======
+
     @roster.sort_by { |h| h [:student] }
   end
->>>>>>> f363b6c5c981f5db3dc07f11711e8921c440bbf6
-end

@@ -30,5 +30,3 @@ end
 
     @roster.sort_by { |h| h [:student] }
   end
-
-end
